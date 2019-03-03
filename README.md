@@ -1,4 +1,4 @@
-# Mountain Recommender Using Topic Modeling
+# Mountain Recommender Using NLP Topic Modeling
 
 The goal of this project was to recommend mountains based on certain topics modeled by Natural Language Processing climber's logs from [SummitPost](http://summitpost.org).  I used Latent Dirichlet Allocation (LDA) to come up with the following three topics based on specific words:
 
